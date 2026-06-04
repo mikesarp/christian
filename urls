@@ -11,13 +11,13 @@
   },
   {
     "id": 3,
-    "name": "UCB Canada",
-    "url": "https://ice24.securenetsystems.net/UBC893?playSessionID=6F059954-ED25-809F-9D11F8C8C7DCB89E"
+    "name": "UCB Ireland Worship",
+    "url": "https://stream.btsstream.com/stream/iworship"
   },
   {
     "id": 4,
     "name": "UCB2",
-    "url": "https://tx.sharp-stream.com/http_live.php?i=ucbinspirational.mp3"
+    "url": "https://listen-ucb.sharp-stream.com/55_ucb_2_128_mp3"
   },
   {
     "id": 5,
@@ -27,7 +27,7 @@
   {
     "id": 6,
     "name": "Final Fight Bible Radio",
-    "url": "https://streams.radio.co/sd7d07f6a0/listen"
+    "url": "https://c13.radioboss.fm:8639/stream"
   },
   {
     "id": 7,
