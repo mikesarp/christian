@@ -56,8 +56,8 @@
   },
   {
     "id": 12,
-    "name": "Christian Life Radio",
-    "url": "http://ice64.securenetsystems.net/CLR1MP3"
+    "name": "Family Life Radio",
+    "url": "https://icecast.streammyflr.org/FLRstream"
   },
   {
     "id": 13,
@@ -67,7 +67,7 @@
   {
     "id": 14,
     "name": "WNKJ Christian Radio 89.3",
-    "url": "http://147.135.84.27/wnkj-fm"
+    "url": "https://ice25.securenetsystems.net/WNKJ?rand=1780566150647"
   },
   {
     "id": 15,
@@ -87,7 +87,7 @@
   {
     "id": 18,
     "name": "RCF ASLACE",
-    "url": "http://rcf.streamakaci.com/rcf.mp3"
+    "url": "https://rcf.streamakaci.com/rcf67.mp3"
   },
   {
     "id": 19,
