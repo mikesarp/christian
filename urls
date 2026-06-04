@@ -166,18 +166,18 @@
   },
   {
     "id": 34,
-    "name": "B05 BIBLE FR (Seismic Fr)",
-    "url": "http://5.63.151.52:7076/stream"
+    "name": "Fréquence Oasis",
+    "url": "https://frequenceoasis.ice.infomaniak.ch/frequenceoasis-128.mp3?_=1"
   },
   {
     "id": 35,
-    "name": "B06. Streaming Bible SP",
-    "url": "http://streamingbibleradio.org:8001/Spanish"
+    "name": "The Holy Bible",
+    "url": "https://s1.voscast.com:11653/stream"
   },
   {
     "id": 36,
-    "name": "B11 Streaming Bible KJV",
-    "url": "http://streamingbibleradio.org:8001/English_KJV"
+    "name": "Bible Online Radio",
+    "url": "https://c28.radioboss.fm:8335/autodj"
   },
   {
     "id": 37,
