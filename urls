@@ -92,17 +92,17 @@
   {
     "id": 19,
     "name": "RVS Bologna",
-    "url": "http://onair15.xdevel.com:8632/1/"
+    "url": "https://stream9.xdevel.com/audio1s978363-2601/stream/icecast.audio?rp_source=1"
   },
   {
     "id": 20,
     "name": "Levantando Al Caido Dunamis",
-    "url": "http://s28.myradiostream.com:21224/stream/1/"
+    "url": "https://cp.sonicpanel.stream/8312/stream"
   },
   {
     "id": 21,
-    "name": "WBTk - Radio Poder",
-    "url": "http://ic1.christiannetcast.com/wbtk-am"
+    "name": "Way FM",
+    "url": "https://ais-sa8.cdnstream1.com/3150_64.aac"
   },
   {
     "id": 22,
