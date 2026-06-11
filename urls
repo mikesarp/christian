@@ -186,13 +186,13 @@
   },
   {
     "id": 38,
-    "name": "B13 BIBLE IT",
-    "url": "http://nr8.newradio.it:9532/stream"
+    "name": "Radio Sacra Famiglia",
+    "url": "https://nr6.newradio.it/proxy/aieconlu?mp=/stream"
   },
   {
     "id": 39,
-    "name": "B14 BIBLE FR (Seismic Fr)",
-    "url": "http://5.63.151.52:7076/stream"
+    "name": "Radio Présence",
+    "url": "https://direct.radiopresence.com/presence-pyrenees"
   },
   {
     "id": 40,
