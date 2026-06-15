@@ -196,33 +196,33 @@
   },
   {
     "id": 40,
-    "name": "BBN Chinese",
-    "url": "http://stream2.bbnradio.org:8000/chinese.aac"
+    "name": "BBN - Mandarin",
+    "url": "https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f"
   },
   {
     "id": 41,
-    "name": "BBN German",
-    "url": "http://stream2.bbnradio.org:8000/german.aac"
+    "name": "ERF Plus",
+    "url": "https://addrad.io/44599k7"
   },
   {
     "id": 42,
-    "name": "BBN Japanese",
-    "url": "http://stream2.bbnradio.org:8000/japanese.aac"
+    "name": "True Life in God Radio Japanese",
+    "url": "https://stream.tligradio.org/listen/japanese/radio.mp3"
   },
   {
     "id": 43,
-    "name": "BBN Español",
-    "url": "http://stream2.bbnradio.org:8000/spanish.aac"
+    "name": "UCB Canada",
+    "url": "https://ucbmedia.streamguys1.com/ucbradio/playlist.m3u8"
   },
   {
     "id": 44,
-    "name": "BBN Korean",
-    "url": "http://stream2.bbnradio.org:8000/korean.aac"
+    "name": "UCB Canada Fort Mcmurray",
+    "url": "https://ucbmedia.streamguys1.com/fmac911/playlist.m3u8"
   },
   {
     "id": 45,
-    "name": "BBN Russian",
-    "url": "http://stream2.bbnradio.org:8000/russian.aac"
+    "name": "UCB Canada Chatham Kent",
+    "url": "https://ucbmedia.streamguys1.com/chat893/playlist.m3u8"
   },
   {
     "id": 46,
