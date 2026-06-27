@@ -1,40 +1,273 @@
 [
   {
-    "id": 1,
     "name": "UCB1",
     "url": "https://listen-ucb.sharp-stream.com/55_ucb_1_128_mp3"
   },
   {
-    "id": 2,
     "name": "Adventist Radio London",
     "url": "http://213.177.248.80:8002/arl.mp3"
   },
   {
-    "id": 3,
     "name": "UCB Ireland Worship",
     "url": "https://stream.btsstream.com/stream/iworship"
   },
   {
-    "id": 4,
     "name": "UCB2",
     "url": "https://listen-ucb.sharp-stream.com/55_ucb_2_128_mp3"
   },
   {
-    "id": 5,
     "name": "UCB Ireland",
     "url": "https://stream.btsstream.com/stream/ucbireland"
   },
   {
-    "id": 6,
     "name": "Final Fight Bible Radio",
     "url": "https://c13.radioboss.fm:8639/stream"
   },
   {
-    "id": 7,
     "name": "One Christian Radio",
     "url": "http://radio.wsradio.net:33001/onechristianradio"
   },
   {
+    "name": "CSN International",
+    "url": "https://ice7.securenetsystems.net/CSNAAC"
+  },
+  {
+    "name": "Premier Christian Radio",
+    "url": "https://pcr.streamguys1.com/pcrnational-96k.aac"
+  },
+  {
+    "name": "Joy Christian Radio TCM",
+    "url": "http://65.109.81.84:8254/ClassicGospelNetwork/;"
+  },
+  {
+    "name": "Vision Christian Radio",
+    "url": "https://streams3.vision.org.au/vision-128k.aac"
+  },
+  {
+    "name": "Family Life Radio",
+    "url": "https://icecast.streammyflr.org/FLRstream"
+  },
+  {
+    "name": "Classic Christian Rock Radio",
+    "url": "https://s20.reliastream.com:8004/stream"
+  },
+  {
+    "name": "WNKJ Christian Radio 89.3",
+    "url": "https://ice25.securenetsystems.net/WNKJ?rand=1780566150647"
+  },
+  {
+    "name": "Old Fashioned Christian Music Radio",
+    "url": "https://stream.radio.co/sf2c714555/listen"
+  },
+  {
+    "name": "Cape Christian Radio",
+    "url": "https://ice64.securenetsystems.net/CCR1MP3"
+  },
+  {
+    "name": "RADIO MARIA USA",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmirlanda2?mp=/stream?ver=418083"
+  },
+  {
+    "name": "RCF ASLACE",
+    "url": "https://rcf.streamakaci.com/rcf67.mp3"
+  },
+  {
+    "name": "RVS Bologna",
+    "url": "https://stream9.xdevel.com/audio1s978363-2601/stream/icecast.audio?rp_source=1"
+  },
+  {
+    "name": "Levantando Al Caido Dunamis",
+    "url": "https://cp.sonicpanel.stream/8312/stream"
+  },
+  {
+    "name": "Way FM",
+    "url": "https://ais-sa8.cdnstream1.com/3150_64.aac"
+  },
+  {
+    "name": "WJIC",
+    "url": "https://wjicnetwork.out.airtime.pro/wjicnetwork_a"
+  },
+  {
+    "name": "The Light",
+    "url": "https://stream.ktlf.radio:8000/theLight"
+  },
+  {
+    "name": "KLFC",
+    "url": "https://a8.asurahosting.com:8000/radio.mp3"
+  },
+  {
+    "name": "CBN Praise",
+    "url": "https://streams.cbnradio.com/praise-128K?app=radionet"
+  },
+  {
+    "name": "CALM RADIO - Christian",
+    "url": "https://streams.calmradio.com:3228/stream"
+  },
+  {
+    "name": "Chinese Christian Radio",
+    "url": "https://ly729.out.airtime.pro/ly729_a"
+  },
+  {
+    "name": "Chronicles Christian Radio",
+    "url": "https://chronicles.radioca.st/stream"
+  },
+  {
+    "name": "WLOF - 101.7",
+    "url": "https://hfc.streamguys1.com/wlof"
+  },
+  {
+    "name": "Abiding Radio Kids' songs and Bible stories",
+    "url": "https://streams.abidingradio.com/kids"
+  },
+  {
+    "name": "Anima Amoris [Bible] 24",
+    "url": "https://amoris.sknt.ru/bible"
+  },
+  {
+    "name": "Biblia Husema Radio",
+    "url": "https://bhbradio-atunwadigital.streamguys1.com/bhbradio"
+  },
+  {
+    "name": "B04 BIBLE ESPERANCE. FR",
+    "url": "http://hagfm.streamakaci.com/parole-de-dieu.mp3"
+  },
+  {
+    "name": "Tele Radio Buon Consiglio",
+    "url": "http://streaming.radiobuonconsiglio.it:8000/;"
+  },
+  {
+    "name": "The Holy Bible",
+    "url": "https://s1.voscast.com:11653/stream"
+  },
+  {
+    "name": "Bible Online Radio",
+    "url": "https://c28.radioboss.fm:8335/autodj"
+  },
+  {
+    "name": "3ABN Radio",
+    "url": "https://war.streamguys1.com:7180/live"
+  },
+  {
+    "name": "Radio Sacra Famiglia",
+    "url": "https://nr6.newradio.it/proxy/aieconlu?mp=/stream"
+  },
+  {
+    "name": "Radio Présence",
+    "url": "https://direct.radiopresence.com/presence-pyrenees"
+  },
+  {
+    "name": "BBN - Mandarin",
+    "url": "https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f"
+  },
+  {
+    "name": "ERF Plus",
+    "url": "https://addrad.io/44599k7"
+  },
+  {
+    "name": "True Life in God Radio Japanese",
+    "url": "https://stream.tligradio.org/listen/japanese/radio.mp3"
+  },
+  {
+    "name": "UCB Canada",
+    "url": "https://ucbmedia.streamguys1.com/ucbradio/playlist.m3u8"
+  },
+  {
+    "name": "UCB Canada Fort Mcmurray",
+    "url": "https://ucbmedia.streamguys1.com/fmac911/playlist.m3u8"
+  },
+  {
+    "name": "The Light",
+    "url": "https://stream.ktlf.radio:8000/theLight"
+  },
+  {
+    "name": "Bibelradio",
+    "url": "http://rs1.stream24.org:8690/stream"
+  },
+  {
+    "name": "Bibelradio (Sermon-Online)",
+    "url": "http://bibelradio.org/"
+  },
+  {
+    "name": "BRN Radio - Arabic Channel",
+    "url": "http://192.241.185.108:8094/stream"
+  },
+  {
+    "name": "Radio María Perú",
+    "url": "http://dreamsiteradiocp6.com:8074/;"
+  },
+  {
+    "name": "Radio Vida",
+    "url": "https://shout2.brnstream.com/proxy/krge1290am?mp=/;"
+  },
+  {
+    "name": "Jesus Coming FM - Hebrew",
+    "url": "http://live.jesuscomingfm.com:8468/stream"
+  },
+  {
+    "name": "True Life in God Radio Spanish",
+    "url": "https://stream.tligradio.org/listen/spanish/radio.mp3"
+  },
+  {
+    "name": "DWG Radio Arabic (Bibel)",
+    "url": "http://server25531.streamplus.de/;stream.mp3"
+  },
+  {
+    "name": "Jesus Coming FM - German",
+    "url": "http://live.jesuscomingfm.com:8282/stream"
+  },
+  {
+    "name": "LSM Christian Radio",
+    "url": "http://www.lsmchristianradio.com:8000/stream"
+  },
+  {
+    "name": "Prophecy Today Radio",
+    "url": "http://streaming.radio.co/sa2953afc7/listen"
+  },
+  {
+    "name": "RADIO BIBLIA SK",
+    "url": "http://radiobiblia.online:8000/stream.ogg"
+  },
+  {
+    "name": "Radio Freundesdienst Deutsch",
+    "url": "http://radiofd.ice.infomaniak.ch/radiofd.mp3"
+  },
+  {
+    "name": "Radio HBR - Germany/English",
+    "url": "http://stream1.radiohbr.de/stream.mp3"
+  },
+  {
+    "name": "Radio HCJB - La Voz de los Andes",
+    "url": "https://streamingecuador.net:8287/hcjb"
+  },
+  {
+    "name": "Radio Amistad",
+    "url": "https://khcb.streamguys1.com/spanish-64k-mp3"
+  },
+  {
+    "name": "Radio Proglas",
+    "url": "https://icecast1.play.cz/proglas96aac"
+  },
+  {
+    "name": "Thy Word Network",
+    "url": "https://ice24.securenetsystems.net/WBGWAM"
+  },
+  {
+    "name": "V180 Radio Australia",
+    "url": "https://streams3.vision.org.au/vision180-128k.aac"
+  },
+  {
+    "name": "Vision Worship",
+    "url": "https://streams3.vision.org.au/visionworship.aac"
+  },
+  {
+    "name": "Vision Kids",
+    "url": "https://streams3.vision.org.au/VK-64k.aac"
+  },
+  {
+    "name": "GNN Good News Network",
+    "url": "https://ice7.securenetsystems.net/WLPE"
+  }
+]  {
     "id": 8,
     "name": "CSN International",
     "url": "https://ice7.securenetsystems.net/CSNAAC"
